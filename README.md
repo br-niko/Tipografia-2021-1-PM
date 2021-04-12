@@ -1,3 +1,1 @@
-# docsify
-
-* [Lettering](lettering.md)
+# Tipografia
