@@ -12,7 +12,6 @@
 
 ### Gravações das aulas
 
-> Ainda não acabei de colocar aqui
-<!--[1º Semestre](1NA.md)
+[1º Semestre](1NA.md)
 
-[2º e 3º semestres](2e3NA.md)-->
+[2º e 3º semestres](2e3NA.md)

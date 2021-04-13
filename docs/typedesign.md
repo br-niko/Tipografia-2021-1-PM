@@ -19,7 +19,7 @@ Referências:
 ## Exercício: Type Design
 
 1. Desenho de uma letra ```a``` caixa-baixa (minúscula) à mão livre
-2. Reinterpretação da letra desenha em [papel quadriculado](arquivos/quadriculado.pdf ':ignore'), onde:
+2. Reinterpretação da letra desenhada em [papel quadriculado](arquivos/quadriculado.pdf ':ignore'), onde:
    - Os quadradinhos devem estar 100% preenchidos ou 100% não-preenchidos (dinâmica do pixel)
    - Alterar a forma da letra `a` original para se adaptar ao novo processo
    - Inclusão de mais quadrados gera maior "definição" principalmente para letras redondas
@@ -38,4 +38,6 @@ Que podem ser acessados da seguinte forma an tela do Fontstruct:
 ![More Latin](img/more-latin.png)
 
 6. Fazer o download do arquivo de fonte, instalar no computador e aplicar no [template](arquivos/template.ai ':ignore') para entrega.
+
+## [⚑ Link para entrega](linkentrega.md)
 
