@@ -6,12 +6,8 @@
 
 ### Exercícios para avaliação
 
-[Type Design](typedesign.md)
+[1. Type Design](typedesign.md)
 
-[Lettering](lettering.md)
+[2. Lettering](lettering.md)
 
-### Gravações das aulas
-
-[1º Semestre](1NA.md)
-
-[2º e 3º semestres](2e3NA.md)
+### [Gravações das aulas](gravacoes.md)

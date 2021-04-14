@@ -4,3 +4,4 @@
 <!--* [3. Poster Tipográfico](poster.md)-->
 * [⚑ Links para entregas](linkentrega.md)
 * [Trabalhos do semestre](resultados.md)
+* [Gravações das aulas](gravacoes.md)
