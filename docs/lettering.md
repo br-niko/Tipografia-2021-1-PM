@@ -62,11 +62,13 @@ Arquivo PDF: [Modelos de Letras](arquivos/REF-Rubik.pdf ':ignore')  (este arquiv
 
 **Em duplas**, selecionar ou elaborar uma frase curta para desenho
 > Pode ser um ditado popular uma frase
+Por favor, adicionar sua dupla na [planilha do Google](https://docs.google.com/spreadsheets/d/158xvwuuF-WJyJFHguEqJWujZx35I-0KlmM28GeTEEIo/edit?usp=sharing ':ignore') de acompanhamento
 
 O projeto se divide em algumas etapas, que devem ser registradas para entrega:
 
 1. **Pesquisa**
 	- Universo visual gráfico e tipográfico
+     - Sugestão: elaborar um painel do [Pinterest](https://br.pinterest.com/ ':ignore')
 	- Formas tipográficas de referência que se alinham com o conceito
 
 2. **Definição**
