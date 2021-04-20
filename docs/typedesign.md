@@ -37,7 +37,7 @@ Que podem ser acessados da seguinte forma an tela do Fontstruct:
 
 ![More Latin](img/more-latin.png)
 
-6. Fazer o download do arquivo de fonte, instalar no computador e aplicar no [template](arquivos/template.ai ':ignore') para entrega.
+6. Fazer o download do arquivo de fonte, instalar no computador e aplicar no [template](arquivos/template.ai ':ignore') do Illustrator para entrega.
 
 ## [⚑ Link para entrega](linkentrega.md)
 
