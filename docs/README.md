@@ -4,13 +4,13 @@
 
 [Plano de Ensino](petipo.md) -->
 
-### Exercícios para avaliação
+**Exercícios para avaliação:**
 
 [1. Type Design](typedesign.md)
 
 [2. Lettering](lettering.md)
 
-### [Gravações das aulas](gravacoes.md)
+**[Gravações das aulas](gravacoes.md)**
 
 
 Para dúvidas urgentes: nikolas.alorencini@sp.senac.br
