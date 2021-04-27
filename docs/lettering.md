@@ -71,6 +71,7 @@ O projeto se divide em algumas etapas, que devem ser registradas para entrega:
 	- Universo visual gráfico e tipográfico
      - Sugestão: elaborar um painel do [Pinterest](https://br.pinterest.com/ ':ignore')
 	- Formas tipográficas de referência que se alinham com o conceito
+   - Adicionar o link da pesquisa (Painel do Pinterest ou Link de drive) na coluna "link da pesquisa" da [planilha](https://docs.google.com/spreadsheets/d/158xvwuuF-WJyJFHguEqJWujZx35I-0KlmM28GeTEEIo/edit?usp=sharing ':ignore')
 
 2. **Definição**
    - Atribuição de estilo para as palavras com maior ênfase ou mais importantes (peso e expressão)
