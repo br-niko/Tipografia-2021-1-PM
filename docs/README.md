@@ -10,7 +10,10 @@
 
 [2. Lettering](lettering.md)
 
+-----
+
 **[Gravações das aulas](gravacoes.md)**
 
+-----
 
 Para dúvidas urgentes: nikolas.alorencini@sp.senac.br
