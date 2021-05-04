@@ -17,7 +17,7 @@
 |12/04|https://ca-lti.bbcollab.com/recording/5050b4770095433b89e847d69d27b270|
 |19/04|https://ca-lti.bbcollab.com/recording/f0800ab683a34d1fb2eeb31bbe138d4f|
 |26/04|https://ca-lti.bbcollab.com/recording/732d1ee857bf4699a96021eac17df4e0|
-
+|03/05|https://ca-lti.bbcollab.com/recording/418d9f2522b143b39ef13c3e53b8a1aa|
 
 #### ** 2º e 3º semestres **
 
@@ -33,4 +33,5 @@
 |12/04|https://ca-lti.bbcollab.com/recording/9ed4511cd97240cd93cc07146093fd99|
 |19/04|https://ca-lti.bbcollab.com/recording/2494118e5a6048809a8ee4b8dbe16958|
 |26/04|https://ca-lti.bbcollab.com/recording/568e4511891f4e7899f7e0a4fced0427|
+|03/05||https://ca-lti.bbcollab.com/recording/942529054d7a4a8d867075fe0d241303|
 <!-- tabs:end -->
