@@ -85,7 +85,7 @@ O projeto se divide em algumas etapas, que devem ser registradas para entrega:
    - Finalização de **apenas um**: à mão ou digital (Photoshop/Illustrator)
 	 - Cor, definição do traço, ajustes e refinamentos
 
-A entrega deverá ser realizada com um único PDF com várias páginas (sugestão: elaborar no InDesign para treinar o aprendizado da disciplina de Diagramação)
+A entrega deverá ser realizada com um único PDF com várias páginas (sugestão: elaborar no InDesign para praticar Diagramação)
 - a versão do PDF deve ser "Impressão de Alta Qualidade / High Quality Print" 
 
 ## [⚑ Link para entrega](linkentrega.md)

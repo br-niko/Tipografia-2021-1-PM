@@ -2,6 +2,8 @@
 * [1. Type Design](typedesign.md)
 * [2. Lettering](lettering.md)
 <!--* [3. Poster Tipográfico](poster.md)-->
-* [⚑ Links para entregas](linkentrega.md)
+* [⚑ Entrega de trabalho](linkentrega.md)
 * [Trabalhos do semestre](resultados.md)
+
+
 * [Gravações das aulas](gravacoes.md)
