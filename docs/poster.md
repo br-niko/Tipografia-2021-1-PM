@@ -4,7 +4,7 @@
 
 [Typographic Posters](https://www.typographicposters.com/ ':ignore')
 
-[Letterform Archive](https://letterformarchive.org ':ignore')
+[Letterform Archive: Posters](https://oa.letterformarchive.org/search?dims=Format&vals0=Poster&friendly0=Poster ':ignore')
 
 [Google Fonts](https://fonts.google.com/ ':ignore')
 
