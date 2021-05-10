@@ -12,7 +12,7 @@
 
 Criação de pôster tipográfico ```formato A3, vertical```, usando fontes disponíveis, entendendo assim a dinâmica de construção de cartaz, conceituação tipográfica, construção de paleta cromática, introdução/revisão de produção gráfica (CMYK x RGB, resolução).
 
-Os cartazes elaborados nesse exercício devem, obrigatoriamente, dar ênfase à tipografia, que precisa expressas os conceitos definidos anteriormente à construção/planejamento.
+Os cartazes elaborados nesse exercício devem, obrigatoriamente, dar ênfase à tipografia, que precisa expressas os conceitos definidos na fase de pesquisa. Se necessário, pode-se usar elementos gráficos como fotografias, linhas e outras imagens.
 
 ## Exercício: Projeto de Pôster Tipográfico
 
