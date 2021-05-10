@@ -10,10 +10,6 @@ Referências:
 
 [Myfonts](https://www.myfonts.com/ ':ignore')
 
-[Typographic Posters](https://www.typographicposters.com/ ':ignore')
-
-[Letterform Archive](https://letterformarchive.org ':ignore')
-
 [Google Fonts](https://fonts.google.com/ ':ignore')
 
 ## Exercício: Type Design
