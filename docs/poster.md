@@ -14,8 +14,6 @@ Criação de pôster tipográfico ```formato A3, vertical```, usando fontes disp
 
 Os cartazes elaborados nesse exercício devem, obrigatoriamente, dar ênfase à tipografia, que precisa expressas os conceitos definidos anteriormente à construção/planejamento.
 
-Formato A3: 297mm L x 420mm
-
 ## Exercício: Projeto de Pôster Tipográfico
 
 **Em duplas**, escolher um trecho de música marcante e, se possível, que ambos no grupo se interessam.
