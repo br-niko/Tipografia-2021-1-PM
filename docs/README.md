@@ -10,6 +10,8 @@
 
 [2. Lettering](lettering.md)
 
+[3. Pôster Tpográfico](poster.md)
+
 -----
 
 **[Gravações das aulas](gravacoes.md)**
