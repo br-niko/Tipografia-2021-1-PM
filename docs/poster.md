@@ -27,12 +27,15 @@ Assim como o [Projeto Lettering](/lettering?id=exerc%c3%adcio-3-projeto-letterin
     - Levantamento visual gráfico a respeito do conceito a ser explorado ou conceito entendido da música. 
     - Sugestão de elaborar um painel no [Pinterest](https://br.pinterest.com/ ':ignore')
     - Referencial de dinâmicas do cartaz a ser explorada na solução final
+    - Levantamento histórico de fontes para projeto: Identificar formas e fazer uma breve pesquisa de referências/similaridades das fontes possíveis para uso
+        - Justificar a opção tipográfica 
 
 2. **Planejamento**
 
     - Definição da estrutura do poster, formato A3
     - Escolha de fontes a serem usadas, representando da melhor forma o conceito levantando/percebido na etapa de pesquisa:
         - Para esse exercício, usaremos exclusivamente as fontes do [Google Fonts](https://fonts.google.com/ ':ignore') devido à qualidade e disponibilidade.
+    - Definição de paleta cromática
 
 3. **Execução e Finalização**
     
