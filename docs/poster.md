@@ -15,7 +15,7 @@ Criação de pôster tipográfico ```formato A3, vertical```, usando fontes disp
 Os cartazes elaborados nesse exercício devem, obrigatoriamente, dar ênfase à tipografia, que precisa expressas os conceitos definidos na fase de pesquisa. Se necessário, pode-se usar elementos gráficos como fotografias, linhas e outras imagens.
 
 > No projeto de pôster tipográfico, vamos manter o foco em alguns pontos importantes:
->**Hierarquia Visual, Palate Cromática, Escolha e justificativa da tipografia, dinâmica do pôster **
+>Hierarquia Visual, Palate Cromática, Escolha e justificativa da tipografia, dinâmica do pôster
 
 
 ## Exercício: Projeto de Pôster Tipográfico
