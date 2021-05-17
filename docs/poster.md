@@ -45,3 +45,6 @@ Assim como o [Projeto Lettering](/lettering?id=exerc%c3%adcio-3-projeto-letterin
     
     - Preferecialmente, usar o Adobe Illustrator para finalização
     - Exportar/Salvar Como PDF usando a predefinição "Impressão de Alta Qualidade / High Quality Print"
+
+
+## [⚑ Link para entrega](linkentrega.md)
