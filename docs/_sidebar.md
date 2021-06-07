@@ -1,9 +1,14 @@
-* [Home](/)
-* [1. Type Design](typedesign.md)
-* [2. Lettering](lettering.md)
-* [3. Poster Tipográfico](poster.md)
-* [⚑ Entrega de trabalho](linkentrega.md)
-* [Trabalhos do semestre](resultados.md)
+- [Home](/)
+- Guia de Exercícios
+   - [1. Type Design](typedesign.md)
+   - [2. Lettering](lettering.md)
+   - [3. Poster Tipográfico](poster.md)
+   - [⚑ Entrega de trabalho](linkentrega.md)
 
-
-* [Gravações das aulas](gravacoes.md)
+- Resultados - Trabalhos dos alunos
+   - [Type Design](resultados-typedesign.md)
+   - [Lettering](resultados-lettering.md)
+   - [Projeto Lettering](resultados-projeto-lettering.md)
+   - [Poster Tipográfico](resultados-poster.md)
+- Gravações das aulas
+   - [Datas e Links](gravacoes.md)
